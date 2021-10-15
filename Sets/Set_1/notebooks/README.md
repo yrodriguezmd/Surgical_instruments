@@ -1,5 +1,5 @@
 
-#### Initial Training run at Epoch=30
+#### Initial Training run at Epoch=30 (notebook: Set_1_Model_A.ipynb)
 
 Training values
 
@@ -15,7 +15,7 @@ https://wandb.ai/maria_rodriguez/Surgical_instruments/runs/287saexj?workspace=us
 Concern:  poor predictions
 
 
-#### Train run at Epoch = 100 
+#### Train run at Epoch = 100 (notebook: Set_1_Model_A_ret_epoch100_oct15.ipynb)
 
 ![Screen Shot 2021-10-15 at 2 35 16 PM](https://user-images.githubusercontent.com/71532604/137556148-204fd02e-131b-425d-a050-33561268a5fa.png)
 
