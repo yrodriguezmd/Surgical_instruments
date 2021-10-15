@@ -17,7 +17,9 @@ Concern:  poor predictions
 
 #### Train run at Epoch = 100 (notebook: Set_1_Model_A_ret_epoch100_oct15.ipynb)
 
-![Screen Shot 2021-10-15 at 2 35 16 PM](https://user-images.githubusercontent.com/71532604/137556148-204fd02e-131b-425d-a050-33561268a5fa.png)
+![Screen Shot 2021-10-15 at 2 52 26 PM](https://user-images.githubusercontent.com/71532604/137557490-0868a013-d91c-477d-8530-241b550e0ade.png)
+
+
 
 ![Screen Shot 2021-10-15 at 2 35 59 PM](https://user-images.githubusercontent.com/71532604/137556176-77c6e4ef-b36f-453a-b637-b77cfd65d5c4.png)
 
