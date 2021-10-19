@@ -1,4 +1,4 @@
-#### Set_S = merged annotated Sets 1-7
+#### Set_S = merged annotated Sets
 
 expected n = 1,500:
 
