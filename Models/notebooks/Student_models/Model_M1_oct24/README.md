@@ -1,6 +1,4 @@
-When iterative student model training proved ineffective and with challenging workflow, 
-
-a whole-set (Set_U) approach was done.
+When iterative student model training proved ineffective and with challenging workflow, a whole-set (Set_U) approach was done.
 
 The teacher Model_M (fine-tuned on labelled data Set_1_7) was used to generate pseudolabels for the whole unlabelled Set_U, generating 94% labelling.
 
