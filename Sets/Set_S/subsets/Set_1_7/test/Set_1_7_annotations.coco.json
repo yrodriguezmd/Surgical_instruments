@@ -55,11 +55,11 @@
             "name": "Iris",
             "supercategory": "instruments"
         },
-        {
-            "id": 8,
-            "name": "Mayo-metz",
-            "supercategory": "instruments"
-        },
+       # {
+       #     "id": 8,
+       #     "name": "Mayo-metz",
+       #     "supercategory": "instruments"
+        #},
         {
             "id": 9,
             "name": "Mayo_metz",
