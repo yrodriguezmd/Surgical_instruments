@@ -19,3 +19,24 @@ Develop an application that can reliably locate and identify surgical instrument
 
 
 [Surg_object_det_2021_10_14.pdf](https://github.com/yrodriguezmd/Surgical_instruments/files/7348795/Surg_object_det_2021_10_14.pdf)
+
+
+## Summary of Results:
+
+A series of experiments including both supervised and unsupervised learning techniques showed that fine-tuning a VFNet model with a ResNet50_fpn_mstrain_2x backbone resulted in the best level of detection, with a mAP of 82.6, validation set loss of 0.94 and good performance on the held-out test set.
+
+Self-training using teacher- and student-models did not perform as well as conventional supervised learning.
+
+## Deployment:
+
+https://huggingface.co/spaces/yrodriguezmd/Surgical_instruments_app
+
+## Reports:
+
+https://wandb.ai/maria_rodriguez/Transfer_learning_vf/reports/Transfer-Learning-Serial-versus-One-time-Training--VmlldzoxMjczNDMz
+
+https://wandb.ai/maria_rodriguez/Surgical_instruments_models_/reports/Choosing-a-Model-for-Detecting-Surgical-Instruments--VmlldzoxMjI4NjQ0
+
+## Future Work:
+
+Further improvement is needed in the detection of overlapping instruments/ dense distribution, as well as small objects (surgical needle).
